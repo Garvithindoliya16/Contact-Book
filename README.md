@@ -29,7 +29,7 @@ A simple yet powerful **Python-based Contact Book** that allows users to **add**
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/contact-book.git
+   https://github.com/Garvithindoliya16/Contact-Book.git
    cd contact-book
    ```
 
